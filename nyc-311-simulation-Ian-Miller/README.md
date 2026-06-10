@@ -12,7 +12,7 @@ Output will be saved to `output.txt`. The console will confirm when the file has
  
 ## What This Script Does
  
-[Write 2-3 sentences describing what your script does in plain English.]
+This script first reads through the nyc_311_requests.csv files and saves the information. That information is then presented in output.txt, which shows the number of open requests made, the most common complaint type, and the requests per borough.
  
 ## Dependencies
  
@@ -20,4 +20,3 @@ This script uses only Python's built-in libraries: `csv`.
  
 ## Notes
  
-[Optional: anything you want to flag about your approach or assumptions.]

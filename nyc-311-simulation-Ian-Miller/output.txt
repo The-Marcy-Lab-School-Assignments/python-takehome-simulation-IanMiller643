@@ -1,0 +1,11 @@
+Open requests: 17
+
+Most common complaint type: Noise - Residential
+(30 requests)
+
+Requests per borough:
+- Bronx: 20
+- Brooklyn: 21
+- Manhattan: 21
+- Queens: 20
+- Staten Island: 18
